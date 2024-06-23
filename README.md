@@ -2,11 +2,14 @@
 
 This is a solution of development of the frontend part of dribbble website clone using HTML and CSS Only created by Kuldeep Tripathi.
 
+<<<<<<< HEAD
 ### Links
 
 - Solution URL: [https://github.com/DMKuldeep/dribble-clone](https://github.com/DMKuldeep/dribble-clone)
 - Live Site URL: [https://dmkuldeep.github.io/dribble-clone/](https://dmkuldeep.github.io/dribble-clone/)
 
+=======
+>>>>>>> 9a326df35f1c3ebe7c6e48e2066d45cb580a66a8
 ## My process
 
 ## Built with
