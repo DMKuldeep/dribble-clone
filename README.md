@@ -4,8 +4,8 @@ This is a solution of development of the frontend part of dribbble website clone
 
 ### Links
 
-- Solution URL: [https://github.com/saurav-verma-01/dribble-clone](https://github.com/saurav-verma-01/dribble-clone)
-- Live Site URL: [https://main--dribbble-sv.netlify.app/](https://main--dribbble-sv.netlify.app/)
+- Solution URL: [https://github.com/DMKuldeep/dribble-clone](https://github.com/DMKuldeep/dribble-clone)
+- Live Site URL: [https://dmkuldeep.github.io/dribble-clone/](https://dmkuldeep.github.io/dribble-clone/)
 
 ## My process
 
@@ -17,7 +17,7 @@ This is a solution of development of the frontend part of dribbble website clone
 - Desktop-first workflow
 - CSS Variables
 - CSS Media Queries
-- Vite
+
 
 ## Screenshot
 
